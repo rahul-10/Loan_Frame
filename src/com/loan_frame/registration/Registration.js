@@ -421,7 +421,7 @@ const estyles = EStyleSheet.create({
         justifyContent:'center',
         alignItems:'center',
         width:'55%',
-        borderRadius: 30,
+        borderRadius: 20,
         margin: '5%',
 
     },

@@ -120,8 +120,9 @@ const estyles = EStyleSheet.create({
         justifyContent:'center',
         alignItems:'center',
         width:'55%',
-        borderRadius: 30,
+        borderRadius: 20,
         marginTop: 50,
+        marginBottom:20
 
     },
 });
